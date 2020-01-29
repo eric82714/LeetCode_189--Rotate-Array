@@ -28,7 +28,7 @@ rotate 1 steps to the right: [99,-1,-100,3]
 
 rotate 2 steps to the right: [3,99,-1,-100]
 
-#Note:
+# Note:
 
 Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
 
